@@ -2,7 +2,7 @@
 
 Who am I?  
 
-#### Contact 💬
+#### Contact me 💬
 Telegram: [**@ShenMian**](https://t.me/shenmian)  
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenMian&theme=dark&layout=compact)
