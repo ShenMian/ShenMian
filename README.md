@@ -1,3 +1,5 @@
+**en** | [cn]
+
 ### Hi there 👋
 
 Who am I?  
@@ -6,6 +8,8 @@ Who am I?
 Telegram: [**@ShenMian**](https://t.me/shenmian)  
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenMian&theme=dark&layout=compact)
+
+[cn]: README.md
 
 <!--
 - 🔭 I’m currently working on ...
