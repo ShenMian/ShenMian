@@ -1,4 +1,4 @@
-**en** | [cn]
+**en** | [中文]
 
 ### Hi there 👋
 
@@ -9,7 +9,7 @@ Telegram: [**@ShenMian**](https://t.me/shenmian)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenMian&theme=dark&layout=compact)
 
-[cn]: README.md
+[中文]: README_cn.md
 
 <!--
 - 🔭 I’m currently working on ...
