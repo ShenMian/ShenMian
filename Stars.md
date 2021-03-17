@@ -20,6 +20,8 @@ Thirdparty
 - [Spdlog](https://github.com/gabime/spdlog)
 - [EnTT](https://github.com/skypjack/entt)
 - [SDL](https://github.com/libsdl-org/SDL)
+- [NCurses](https://github.com/mirror/ncurses)
+- [PDCurses](https://github.com/wmcbrine/PDCurses)
 
 VIM
 ---
