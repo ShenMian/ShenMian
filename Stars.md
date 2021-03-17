@@ -13,6 +13,7 @@ Physics
 -------
 - [Box2d-lite](https://github.com/erincatto/box2d-lite)
 - [Box2d](https://github.com/erincatto/box2d)
+- [Chipmunk2D](https://github.com/slembcke/Chipmunk2D)
 - [JS-Collisions](https://github.com/Sinova/Collisions)
 
 Thirdparty
