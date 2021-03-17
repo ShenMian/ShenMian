@@ -9,6 +9,12 @@ Game Engine
 - [UnrealEngine](https://github.com/EpicGames/UnrealEngine)
 - [OlcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
 
+Thirdparty
+----------
+- [Spdlog](https://github.com/gabime/spdlog)
+- [EnTT](https://github.com/skypjack/entt)
+- [SDL](https://github.com/libsdl-org/SDL)
+
 VIM
 ---
 - [Vimplus](https://github.com/chxuan/vimplus)
