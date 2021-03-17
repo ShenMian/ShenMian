@@ -8,3 +8,8 @@ Game Engine
 - [Godot](https://github.com/godotengine/godot)
 - [UnrealEngine](https://github.com/EpicGames/UnrealEngine)
 - [OlcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
+
+VIM
+---
+- [Vimplus](https://github.com/chxuan/vimplus)
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim)
