@@ -20,6 +20,7 @@ Thirdparty
 ----------
 - [Spdlog](https://github.com/gabime/spdlog)
 - [EnTT](https://github.com/skypjack/entt)
+- [Yaml-cpp](https://github.com/jbeder/yaml-cpp)
 - [SDL](https://github.com/libsdl-org/SDL)
 - [NCurses](https://github.com/mirror/ncurses)
 - [PDCurses](https://github.com/wmcbrine/PDCurses)
