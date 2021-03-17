@@ -9,6 +9,12 @@ Game Engine
 - [UnrealEngine](https://github.com/EpicGames/UnrealEngine)
 - [OlcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
 
+Physics
+-------
+- [Box2d-lite](https://github.com/erincatto/box2d-lite)
+- [Box2d](https://github.com/erincatto/box2d)
+- [JS-Collisions](https://github.com/Sinova/Collisions)
+
 Thirdparty
 ----------
 - [Spdlog](https://github.com/gabime/spdlog)
