@@ -9,7 +9,7 @@ Telegram: [**@ShenMian**](https://t.me/shenmian)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenMian&theme=dark&layout=compact)
 
-[Stars](Stars.md)
+[:star:](Stars.md)
 
 [中文]: Readme_cn.md
 
