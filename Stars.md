@@ -1,7 +1,7 @@
 
 - [Game Engine](#game-engine)
 - [Physics](#physics)
-- [Thirdparty](#thridparty)
+- [Thirdparty](#thirdparty)
 
 Game Engine
 -----------
