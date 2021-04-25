@@ -8,7 +8,7 @@ Study
 
 Game Engine
 -----------
-- [MultiplayerBook](https://github.com/MultiplayerBook/MultiplayerBook)
+- [MultiplayerBook](https://github.com/MultiplayerBook/MultiplayerBook) 网络多人游戏架构与编程
 - [Hazel](https://github.com/TheCherno/Hazel)
 - [Cocos2d-x](https://github.com/cocos2d/cocos2d-x)
 - [Delta3d](https://github.com/delta3d/delta3d)
