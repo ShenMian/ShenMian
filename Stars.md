@@ -25,13 +25,13 @@ Physics
 
 Thirdparty
 ----------
-- [Spdlog](https://github.com/gabime/spdlog)
-- [EnTT](https://github.com/skypjack/entt)
-- [Awesome-cpp](https://github.com/fffaraz/awesome-cpp)
-- [Yaml-cpp](https://github.com/jbeder/yaml-cpp)
+- [Spdlog](https://github.com/gabime/spdlog) 日志记录
+- [EnTT](https://github.com/skypjack/entt) ECS
+- [Awesome-cpp](https://github.com/fffaraz/awesome-cpp) 第三方库合集
+- [Yaml-cpp](https://github.com/jbeder/yaml-cpp) YAML解析
 - [SDL](https://github.com/libsdl-org/SDL)
 - Network
-  - [ASIO](https://github.com/chriskohlhoff/asio)
+  - [ASIO](https://github.com/chriskohlhoff/asio) 异步通信
 - Console
   - [NCurses](https://github.com/mirror/ncurses)
   - [PDCurses](https://github.com/wmcbrine/PDCurses)
