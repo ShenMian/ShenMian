@@ -1,9 +1,10 @@
 
 Study
 -----
-- [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
-- [design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp)
-- [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
+- C++
+  - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+  - [design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp)
+  - [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 
 Game Engine
 -----------
