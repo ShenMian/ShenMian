@@ -11,7 +11,7 @@ Telegram: [**@ShenMian**](https://t.me/shenmian)
 
 [:star:](Stars.md)
 
-[cn]: Readme_cn.md
+[cn]: README_cn.md
 
 <!--
 - 🔭 I’m currently working on ...
