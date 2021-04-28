@@ -1,4 +1,4 @@
-**en** | [中文]
+**en** | [cn]
 
 ### Hi there 👋
 
@@ -11,7 +11,7 @@ Telegram: [**@ShenMian**](https://t.me/shenmian)
 
 [:star:](Stars.md)
 
-[中文]: Readme_cn.md
+[cn]: Readme_cn.md
 
 <!--
 - 🔭 I’m currently working on ...
