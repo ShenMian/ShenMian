@@ -3,17 +3,17 @@ Study
 -----
 - C++
   - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
-  - [design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp)
-  - [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
+  - [design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp) 设计模式 C++ 实现
+  - [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) C++ 模板教程
 
 Game Engine
 -----------
 - [MultiplayerBook](https://github.com/MultiplayerBook/MultiplayerBook) 网络多人游戏架构与编程
-- [Hazel](https://github.com/TheCherno/Hazel)
 - [Cocos2d-x](https://github.com/cocos2d/cocos2d-x)
 - [Delta3d](https://github.com/delta3d/delta3d)
 - [Godot](https://github.com/godotengine/godot)
 - [UnrealEngine](https://github.com/EpicGames/UnrealEngine)
+- [Hazel](https://github.com/TheCherno/Hazel)
 - [OlcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
 
 Physics
@@ -38,5 +38,5 @@ Thirdparty
 
 VIM
 ---
-- [Vimplus](https://github.com/chxuan/vimplus)
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim)
+- [Vimplus](https://github.com/chxuan/vimplus)
