@@ -41,6 +41,7 @@ Networking
 Other
 -----
 - [Awesome-cpp](https://github.com/fffaraz/awesome-cpp) 第三方库合集
+- [Awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) 第三方库合集 中文
 - [Yaml-cpp](https://github.com/jbeder/yaml-cpp) YAML 解析
 - [SDL](https://github.com/libsdl-org/SDL) 简单多媒体库
 - Console
