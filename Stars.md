@@ -21,23 +21,28 @@ Game Engine
 
 Physics
 -------
-- [Box2d-lite](https://github.com/erincatto/box2d-lite) C++ 物理引擎
-- [Box2d](https://github.com/erincatto/box2d) C++ 物理引擎
-- [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) C 物理引擎
+- [Box2d-lite](https://github.com/erincatto/box2d-lite) C++ 2D 简易物理引擎
+- [Box2d](https://github.com/erincatto/box2d) C++ 2D 物理引擎
+- [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) C 2D 物理引擎
 - [Sinova/Collisions](https://github.com/Sinova/Collisions) JS 碰撞检测
 
 Database
 --------
 - [SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) SQLite C++ 封装
 
-Thirdparty
+Logging
+-------
+- [Spdlog](https://github.com/gabime/spdlog) 快速
+
+Networking
 ----------
-- [Spdlog](https://github.com/gabime/spdlog) 日志记录
+- [ASIO](https://github.com/chriskohlhoff/asio) 异步通信
+
+Other
+-----
 - [Awesome-cpp](https://github.com/fffaraz/awesome-cpp) 第三方库合集
 - [Yaml-cpp](https://github.com/jbeder/yaml-cpp) YAML 解析
 - [SDL](https://github.com/libsdl-org/SDL) 简单多媒体库
-- Network
-  - [ASIO](https://github.com/chriskohlhoff/asio) 异步通信
 - Console
   - [NCurses](https://github.com/mirror/ncurses) 命令行用户界面
   - [PDCurses](https://github.com/wmcbrine/PDCurses) 命令行用户界面
