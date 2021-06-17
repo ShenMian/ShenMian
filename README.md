@@ -6,8 +6,9 @@
 - 🔭 I’m currently working on [**Clementine**](https://github.com/ShenMian/Clementine).
 
 #### Contact 💬
-Telegram: [**@ShenMian**](https://t.me/shenmian)  
-E-mail: **sms_school@outlook.com**
+- Telegram: [**@ShenMian**](https://t.me/shenmian).
+- Github Discussions: [here](https://github.com/ShenMian/ShenMian/discussions).
+- E-mail: sms_school@outlook.com.
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenMian&theme=dark&layout=compact)
 
