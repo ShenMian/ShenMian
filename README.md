@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 
-Who am I?  
+- 🌱 I’m currently learning C++, Computer Graphics.
+- 🔭 I’m currently working on [**Clementine**](https://github.com/ShenMian/Clementine).
 
 #### Contact 💬
 Telegram: [**@ShenMian**](https://t.me/shenmian)  
@@ -15,8 +16,6 @@ E-mail: **sms_school@outlook.com**
 [cn]: README_cn.md
 
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -  Ask me about ...
