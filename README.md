@@ -6,7 +6,7 @@ Who am I?
 
 #### Contact 💬
 Telegram: [**@ShenMian**](https://t.me/shenmian)  
-E-Mail: sms_school@outlook.com
+E-mail: **sms_school@outlook.com**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenMian&theme=dark&layout=compact)
 
