@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🌱 Currently learning C++, Computer Graphics.
+- 🌱 Currently learning C++ and Computer Graphics.
 - 🔭 Currently working on [**Clementine**](https://github.com/ShenMian/Clementine).
 
 #### Contact 💬
