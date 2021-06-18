@@ -2,8 +2,8 @@
 
 ### 嗨, 你好! 👋
 
-- 🌱 Currently learning [C++], [计算机图形学] and [游戏引擎架构].
-- 🔭 Currently working on [**Clementine**](https://github.com/ShenMian/Clementine).
+- 🌱 目前正在学习 [C++], [计算机图形学] and [游戏引擎架构].
+- 🔭 目前正在编写 [**Clementine**](https://github.com/ShenMian/Clementine).
 
 #### 联系 💬
 Telegram: [**@ShenMian**](https://t.me/shenmian)  
