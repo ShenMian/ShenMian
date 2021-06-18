@@ -6,7 +6,7 @@
 - 🔭 目前正在编写 [**Clementine**](https://github.com/ShenMian/Clementine).
 
 #### 联系 💬
-Telegram: [**@ShenMian**](https://t.me/shenmian)  
+- Telegram: [**@ShenMian**](https://t.me/shenmian)  
 - Github Discussions: [here](https://github.com/ShenMian/ShenMian/discussions).
 - E-mail: sms_school@outlook.com.
 
