@@ -32,7 +32,7 @@ Database
 
 Logging
 -------
-- [Spdlog](https://github.com/gabime/spdlog) 快速
+- [Spdlog](https://github.com/gabime/spdlog) 快速, 仅头文件日志
 
 Networking
 ----------
