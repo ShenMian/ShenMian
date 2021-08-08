@@ -32,11 +32,11 @@ Database
 
 Logging
 -------
-- [Spdlog](https://github.com/gabime/spdlog) 快速, 仅头文件日志
+- [Spdlog](https://github.com/gabime/spdlog) 快速/仅头文件日志
 
 Networking
 ----------
-- [ASIO](https://github.com/chriskohlhoff/asio) 异步通信
+- [ASIO](https://github.com/chriskohlhoff/asio) 网络/串口异步通信
 
 Other
 -----
