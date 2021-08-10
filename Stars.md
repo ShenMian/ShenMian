@@ -5,6 +5,7 @@ Study
   - [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
   - [design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp) 设计模式 C++ 实现
   - [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) C++ 模板教程
+  - [Modern Cpp Tutorial](https://github.com/changkun/modern-cpp-tutorial) 现代 C++ 教程
 
 Game Engine
 -----------
@@ -17,7 +18,7 @@ Game Engine
 - Entity-Component-System (ECS)
   - [SergeyMakeev/ecs](https://github.com/SergeyMakeev/ecs)
   - [redxdev/ECS](https://github.com/redxdev/ECS)
-  - [EnTT](https://github.com/skypjack/entt) ECS
+  - [EnTT](https://github.com/skypjack/entt)
 
 Physics
 -------
@@ -25,6 +26,10 @@ Physics
 - [Box2d](https://github.com/erincatto/box2d) C++ 2D 物理引擎
 - [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) C 2D 物理引擎
 - [Sinova/Collisions](https://github.com/Sinova/Collisions) JS 碰撞检测
+
+Math
+----
+[GLM](https://github.com/g-truc/glm) OpenGL 数学
 
 Database
 --------
@@ -41,12 +46,17 @@ Networking
 Other
 -----
 - [Awesome-cpp](https://github.com/fffaraz/awesome-cpp) 第三方库合集
+- [Awesome-cpp](https://github.com/fffaraz/awesome-cpp-cn) 中文第三方库合集
 - [Awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) 第三方库合集 中文
 - [Yaml-cpp](https://github.com/jbeder/yaml-cpp) YAML 解析
 - [SDL](https://github.com/libsdl-org/SDL) 简单多媒体库
 - Console
   - [NCurses](https://github.com/mirror/ncurses) 命令行用户界面
   - [PDCurses](https://github.com/wmcbrine/PDCurses) 命令行用户界面
+
+Game
+----
+[Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) 丧尸末日生存
 
 VIM
 ---
