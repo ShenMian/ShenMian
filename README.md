@@ -15,9 +15,9 @@
 [:star:](Stars.md)
 
 [cn]: README_cn.md
-[C++]: https://github.com/ShenMian/Notes/tree/master/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%20-%20Programming%20Language/C%2B%2B
-[Computer Graphics]: https://github.com/ShenMian/Notes/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%20-%20Computer%20Graphics
-[Game Engine Architecture]: https://github.com/ShenMian/Notes/tree/master/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E6%9E%B6%E6%9E%84%20-%20Game%20Engine%20Architecture
+[C++]: https://github.com/ShenMian/Notes/tree/master/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/C%2B%2B
+[Computer Graphics]: https://github.com/ShenMian/Notes/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6
+[Game Engine Architecture]: https://github.com/ShenMian/Notes/tree/master/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E6%9E%B6%E6%9E%84
 
 <!--
 - 👯 I’m looking to collaborate on ...
